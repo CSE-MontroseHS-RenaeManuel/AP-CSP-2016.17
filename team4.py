@@ -1,4 +1,5 @@
 ####
+team_name= 'team 10'
 # Each team's file must define four tokens:
 #     team_name: a string
 #     strategy_name: a string
